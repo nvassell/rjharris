@@ -27,6 +27,11 @@ header{
     text-align: justify;
 }
 
+.paragraph p {
+    padding: 50px 60px 0px 60px;
+    text-align: justify;
+}
+
 .vabout p {
     padding: 0px 60px 0px 60px;
     text-align: justify;
